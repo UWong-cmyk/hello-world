@@ -5,5 +5,5 @@ Enter here means a new line
 ### Something is helpful
 
 HELLO WORLD!
-刻在我心底的名字
-夏末的歌
+I'm interested in natural language processing and semantics.
+Welcome to share views!
